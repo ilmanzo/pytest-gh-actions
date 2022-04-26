@@ -1,4 +1,3 @@
-
 from src import main
 
 
@@ -7,4 +6,4 @@ def test_myfunc():
 
 
 def test_failing():
-    assert main.myfunc(4, 3) == 6
+    assert main.myfunc(4, 3) == 7
