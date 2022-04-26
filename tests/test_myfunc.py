@@ -6,4 +6,4 @@ def test_myfunc():
 
 
 def test_failing():
-    assert main.myfunc(4, 3) == 7
+    assert main.myfunc(4, 3) == 6
